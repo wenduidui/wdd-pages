@@ -1,29 +1,29 @@
 {
-  "name": "wdd-pages",
+  "name": "zce-pages",
   "version": "0.2.0",
   "description": "static web app workflow",
   "keywords": [
-    "wdd-pages",
-    "wdd"
+    "zce-pages",
+    "zce"
   ],
-  "homepage": "https://github.com/wenduidui/wdd-pages#readme",
+  "homepage": "https://github.com/zce/zce-pages#readme",
   "bugs": {
-    "url": "https://github.com/wenduidui/wdd-pages/issues"
+    "url": "https://github.com/zce/zce-pages/issues"
   },
   "license": "MIT",
-  "author": "",
+  "author": "zce <w@zce.me> (https://zce.me)",
   "files": [
     "lib",
     "bin"
   ],
   "main": "lib/index.js",
-  "bin": "bin/wdd-pages.js",
+  "bin": "bin/zce-pages.js",
   "directories": {
     "lib": "lib"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wenduidui/wdd-pages.git"
+    "url": "git+https://github.com/zce/zce-pages.git"
   },
   "scripts": {
     "lint": "standard --fix"
